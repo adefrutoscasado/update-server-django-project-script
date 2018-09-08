@@ -5,3 +5,6 @@ This example is using:
 - Gitlab as repository hosting service
 - Gunicorn as Web Server Gateway Interface HTTP server
 - Nginx as webserver
+
+Execute using:  
+`./pushtoserver.sh <server ip> <server user> <server password> <gitlab user> <gitlab password>`
